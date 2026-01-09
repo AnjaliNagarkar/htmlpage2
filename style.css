@@ -1,0 +1,42 @@
+*{
+    margin:0%;
+    padding:0%;
+    box-sizing: border-box;
+}
+html, body{
+    height: 100%;
+    width: 100%;
+  
+}
+button{
+    padding: 10px 9px;
+    background-color: rgb(3, 8, 8);
+    color: white;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+    margin-left: 100px;
+    margin-bottom: 30px;
+    margin-top: -20px;
+}
+html{
+    background-image: url(https://images.unsplash.com/photo-1518655048521-f130df041f66?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-size: cover;
+    background-position: center;
+    margin-left: 50px;
+    margin-top: 40px;
+}
+header{
+    margin-left: 180px;
+    margin-bottom: 20px;
+}
+#description{
+    margin-left: 50px;
+}
+#education-table{
+    display: flex;
+}
+h2{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
